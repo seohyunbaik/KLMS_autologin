@@ -1,5 +1,13 @@
 # KLMS_autologin
 A auto login tool for KLMS
+Works on Safari brower for macOS
+Before you run this, you must enable some safari features
+
+
+You must modify the code of afari_initialization.applescript.
+replacing the placeholder password to your actual KAIST account password.
+
+I've attached the shortcut file to.
 
 
 The file running order is:
@@ -9,4 +17,6 @@ The file running order is:
 3. safari_finish.applescript
 
 
-I don't think it is very legal.
+don't think it is very legal.
+don't think it is very safe.
+don't know if it will work on your computer.
