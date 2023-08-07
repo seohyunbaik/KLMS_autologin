@@ -1,3 +1,9 @@
+--passwordInput should have your password to your KAIST account. 
+--Please replace 'thisistheplasswhereyouputyourpasswordin' with your password.
+--I doubt it is a safe coding practice. Just did it for convenience's sake.
+
+
+
 tell application "Safari"
 	activate
 	open location "https://klms.kaist.ac.kr"
