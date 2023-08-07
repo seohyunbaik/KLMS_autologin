@@ -1,5 +1,5 @@
 # KLMS_autologin
-A auto login tool for KLMS/KAIST portal
+A auto login tool for KLMS/KAISTportal
 Works on Safari brower for macOS
 Before you run this, you must enable some safari features
 
